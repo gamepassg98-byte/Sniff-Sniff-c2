@@ -1,11 +1,5 @@
 {
   "name": "sniff-sniff-c2",
   "version": "2.0.0",
-  "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build"
-  },
-  "dependencies": {
-    "@vercel/kv": "^1.0.0"
-  }
+  "type": "module"
 }
